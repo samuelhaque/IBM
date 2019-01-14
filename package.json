@@ -25,7 +25,7 @@
     "dist:svg:temaki": "svg-sprite --symbol --symbol-dest . --shape-id-generator \"temaki-%s\" --symbol-sprite dist/img/temaki-sprite.svg node_modules/temaki/icons/*.svg",
     "imagery": "node data/update_imagery",
     "lint": "eslint *.js test/spec modules",
-    "start": "node development_server.js develop",
+    "start": "node app.js",
     "test": "npm-run-all -s lint build test:**",
     "test:phantom": "phantomjs --web-security=no node_modules/mocha-phantomjs-core/mocha-phantomjs-core.js test/index.html spec",
     "translations": "node data/update_locales"
