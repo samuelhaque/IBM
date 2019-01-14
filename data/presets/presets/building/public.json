@@ -1,0 +1,18 @@
+{
+    "icon": "maki-building",
+    "fields": [
+        "name",
+        "address",
+        "levels",
+        "height",
+        "smoking"
+    ],
+    "geometry": [
+        "area"
+    ],
+    "tags": {
+        "building": "public"
+    },
+    "matchScore": 0.5,
+    "name": "Public Building"
+}

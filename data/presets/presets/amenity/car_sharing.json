@@ -1,0 +1,17 @@
+{
+    "icon": "maki-car",
+    "fields": [
+        "name",
+        "operator",
+        "capacity",
+        "payment_multi"
+    ],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "tags": {
+        "amenity": "car_sharing"
+    },
+    "name": "Car Sharing"
+}

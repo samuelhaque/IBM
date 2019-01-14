@@ -1,0 +1,23 @@
+{
+    "icon": "maki-telephone",
+    "fields": [
+        "operator",
+        "phone",
+        "fee",
+        "payment_multi",
+        "covered",
+        "indoor",
+        "booth"
+    ],
+    "geometry": [
+        "point",
+        "vertex"
+    ],
+    "tags": {
+        "amenity": "telephone"
+    },
+    "terms":  [
+        "phone"
+    ],
+    "name": "Telephone"
+}

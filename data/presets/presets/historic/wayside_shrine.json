@@ -1,0 +1,18 @@
+{
+    "icon": "maki-landmark",
+    "fields": [
+        "name",
+        "religion",
+        "denomination",
+        "inscription"
+    ],
+    "geometry": [
+        "point",
+        "vertex",
+        "area"
+    ],
+    "tags": {
+        "historic": "wayside_shrine"
+    },
+    "name": "Wayside Shrine"
+}

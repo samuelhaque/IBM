@@ -1,0 +1,12 @@
+{
+    "key": "wheelchair",
+    "type": "radio",
+    "options": [
+        "yes",
+        "limited",
+        "no"
+    ],
+    "icon": "maki-wheelchair",
+    "universal": true,
+    "label": "Wheelchair Access"
+}

@@ -1,0 +1,18 @@
+{
+    "icon": "maki-stadium",
+    "fields": [
+        "name",
+        "address",
+        "levels",
+        "height",
+        "smoking"
+    ],
+    "geometry": [
+        "area"
+    ],
+    "tags": {
+        "building": "stadium"
+    },
+    "matchScore": 0.5,
+    "name": "Stadium Building"
+}

@@ -1,0 +1,14 @@
+{
+    "icon": "maki-drinking-water",
+    "geometry": [
+        "point"
+    ],
+    "tags": {
+        "amenity": "drinking_water"
+    },
+    "terms": [
+        "fountain",
+        "potable"
+    ],
+    "name": "Drinking Water"
+}

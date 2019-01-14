@@ -1,0 +1,27 @@
+{
+    "icon": "maki-library",
+    "fields": [
+        "name",
+        "operator",
+        "building_area",
+        "address",
+        "opening_hours",
+        "internet_access",
+        "internet_access/fee",
+        "ref/isil"
+    ],
+    "moreFields" : [
+        "internet_access/ssid"
+    ],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "terms": [
+        "book"
+    ],
+    "tags": {
+        "amenity": "library"
+    },
+    "name": "Library"
+}

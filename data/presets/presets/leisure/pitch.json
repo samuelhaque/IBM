@@ -1,0 +1,20 @@
+{
+    "icon": "maki-pitch",
+    "fields": [
+        "name",
+        "sport",
+        "surface",
+        "lit"
+    ],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "tags": {
+        "leisure": "pitch"
+    },
+    "terms": [
+        "field"
+    ],
+    "name": "Sport Pitch"
+}

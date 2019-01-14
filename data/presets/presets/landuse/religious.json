@@ -1,0 +1,16 @@
+{
+    "icon": "maki-place-of-worship",
+    "geometry": [
+        "area"
+    ],
+    "fields": [
+        "name",
+        "religion",
+        "denomination"
+    ],
+    "tags": {
+        "landuse": "religious"
+    },
+    "terms": [],
+    "name": "Religious Area"
+}

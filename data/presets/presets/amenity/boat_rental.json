@@ -1,0 +1,15 @@
+{
+    "fields": [
+        "name",
+        "operator",
+        "payment_multi"
+    ],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "tags": {
+        "amenity": "boat_rental"
+    },
+    "name": "Boat Rental"
+}

@@ -1,0 +1,13 @@
+{
+    "icon": "maki-golf",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "line"
+    ],
+    "tags": {
+        "golf": "water_hazard"
+    },
+    "name": "Water Hazard"
+}

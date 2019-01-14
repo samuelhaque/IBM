@@ -1,0 +1,25 @@
+{
+    "icon": "iD-highway-unclassified",
+    "fields": [
+        "name",
+        "oneway",
+        "maxspeed",
+        "lanes",
+        "surface",
+        "structure",
+        "maxheight",
+        "cycleway",
+        "access"
+    ],
+    "geometry": [
+        "line"
+    ],
+    "tags": {
+        "highway": "unclassified"
+    },
+    "terms": [
+        "road",
+        "street"
+    ],
+    "name": "Minor/Unclassified Road"
+}

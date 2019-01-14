@@ -1,0 +1,24 @@
+{
+    "icon": "iD-railway-subway",
+    "fields": [
+        "name",
+        "structure",
+        "gauge",
+        "electrified",
+        "service_rail",
+        "usage_rail",
+        "voltage",
+        "frequency"
+    ],
+    "geometry": [
+        "line"
+    ],
+    "tags": {
+        "railway": "subway"
+    },
+    "terms": [
+        "metro",
+        "transit"
+    ],
+    "name": "Subway"
+}

@@ -1,0 +1,11 @@
+{
+    "icon": "maki-car",
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "tags": {
+        "amenity": "compressed_air"
+    },
+    "name": "Compressed Air"
+}

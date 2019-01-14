@@ -1,0 +1,18 @@
+{
+    "icon": "maki-shop",
+    "fields": [
+        "name",
+        "operator",
+        "address",
+        "building",
+        "opening_hours"
+    ],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "tags": {
+        "amenity": "marketplace"
+    },
+    "name": "Marketplace"
+}

@@ -1,0 +1,27 @@
+{
+    "icon": "maki-casino",
+    "fields": [
+        "name",
+        "operator",
+        "address",
+        "building_area",
+        "opening_hours",
+        "payment_multi",
+        "smoking"
+    ],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "terms": [
+        "gambling",
+        "roulette",
+        "craps",
+        "poker",
+        "blackjack"
+    ],
+    "tags": {
+        "amenity": "casino"
+    },
+    "name": "Casino"
+}

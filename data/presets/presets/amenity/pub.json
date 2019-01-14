@@ -1,0 +1,34 @@
+{
+    "icon": "maki-beer",
+    "fields": [
+        "name",
+        "address",
+        "building_area",
+        "opening_hours",
+        "smoking",
+        "outdoor_seating",
+        "brewery"
+    ],
+    "moreFields": [
+        "internet_access",
+        "internet_access/fee",
+        "internet_access/ssid",
+        "diet_multi"
+    ],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "tags": {
+        "amenity": "pub"
+    },
+    "terms": [
+        "alcohol",
+        "drink",
+        "dive",
+        "beer",
+        "bier",
+        "booze"
+    ],
+    "name": "Pub"
+}

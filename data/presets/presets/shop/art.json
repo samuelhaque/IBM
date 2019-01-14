@@ -1,0 +1,24 @@
+{
+    "icon": "maki-shop",
+    "fields": [
+        "name",
+        "operator",
+        "address",
+        "building_area",
+        "opening_hours",
+        "payment_multi"
+    ],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "terms": [
+        "art*",
+        "exhibit*",
+        "gallery"
+    ],
+    "tags": {
+        "shop": "art"
+    },
+    "name": "Art Store"
+}

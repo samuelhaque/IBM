@@ -1,0 +1,17 @@
+{
+    "icon": "maki-horse-riding",
+    "fields": [
+        "name",
+        "address",
+        "levels",
+        "height"
+    ],
+    "geometry": [
+        "area"
+    ],
+    "tags": {
+        "building": "stable"
+    },
+    "matchScore": 0.5,
+    "name": "Stable"
+}

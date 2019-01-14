@@ -1,0 +1,24 @@
+{
+    "icon": "iD-highway-service",
+    "fields": [
+        "name",
+        "service",
+        "oneway",
+        "maxspeed",
+        "surface",
+        "structure",
+        "maxheight",
+        "access"
+    ],
+    "geometry": [
+        "line"
+    ],
+    "tags": {
+        "highway": "service"
+    },
+    "terms": [
+        "road",
+        "street"
+    ],
+    "name": "Service Road"
+}
