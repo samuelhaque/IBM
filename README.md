@@ -1,1 +1,1 @@
-# samuelhaque.github.io-IBM
+# samuelhaque.github.io/IBM
